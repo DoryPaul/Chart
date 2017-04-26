@@ -39,7 +39,7 @@ mBarChart.addBar(new BarModel(0.4f, 0xFF1FF4AC));
 mBarChart.addBar(new BarModel(4.f,  0xFF1BA4E6));
 
 mBarChart.startAnimation();
-Stacked Bar Chart
+# Stacked Bar Chart
 
 XML
 
@@ -84,7 +84,8 @@ mStackedBarChart.addBar(s3);
 mStackedBarChart.addBar(s4);
 
 mStackedBarChart.startAnimation();
-PieChart
+
+# PieChart
 
 XML
 
@@ -107,7 +108,7 @@ mPieChart.addPieSlice(new PieModel("Work", 35, Color.parseColor("#CDA67F")));
 mPieChart.addPieSlice(new PieModel("Eating", 9, Color.parseColor("#FED70E")));
 
 mPieChart.startAnimation();
-Line Chart
+# Line Chart
 
 XML
 
